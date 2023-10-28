@@ -1,1 +1,1 @@
-Coming Soon
+Our paper, titled "Few-Shot Domain Adaptation for Charge Prediction on Unprofessional Descriptions" (available at [here](https://arxiv.org/pdf/2309.17313.pdf)), is currently under review. We have initially released the NCCP (News Corpus for Charge Prediction) dataset.
